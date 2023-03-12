@@ -23,17 +23,5 @@ Actualmente estoy actualizando mis conocimientos para convertirme en un **Full S
 
 Más adelante subiré un link a mi CV completo, pero por el momento dejaré este archivo hasta aquí.
 
-
-Si estás leyendo esto y quieres seguir mis procesos y/o descubrimientos, te recomiendo leer algunos de los otros documentos, que están en el repo `el-mundo-del-markdown`.
-
-| Nombre | Descripción |
-|-|-|
-| bash.md | Todo lo que va relacionado con la consola y terminal bash |
-| mark.md | Todo lo que va relacionado con Markdown |
-| git.md | bis Git y Git Hub |
-| apuntes.md | este archivo, que iré avanzando por fecha para ordenar después |
-| shame.md | Respaldo desordenado de lo que sobre de apuntes para referencia futura. Puede que no tenga sentido ni organización.
-| tareas.md | Acá pienso poner las tareas, pero así como va la cosa de rápido, creo que sólo guardaré los enunciados y alguna información breve para acordarme de cómo las voy solucionando. | 
-
-
-;)
+Mis descubrimientos y avances los moví a mi blog personal. Si le interesa leerlos, me avisa por dm.
+:)
