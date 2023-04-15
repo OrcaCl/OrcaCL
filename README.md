@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ### 
 
 <!--
 **OrcaCl/OrcaCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Sobre Mi: ####
 
-Hola, mi nombre es Orlando Caffarena a.k.a. OrcaCL. Mis iniciales coinciden con este hermoso animalito y por lo mismo son parte de mi nickname. Y soy de Chile. 
+Hola, mi nombre es Orlando Caffarena, soy un **🎨 Diseñador Gráfico e Ingeniero en Redes**, y vivo en un hermoso, angosto y largo país llamado Chile.
 
-Soy **Diseñador Gráfico**, y anteriormente me dedicaba a ser desarrollo web usando el stack `LAMP`. 
+Mi curiosidad me ha motivado a ser un desarrollador autodidacta en el `antiguo` stack LAMP, a ser un DJ, Fotógrafo, panadero de pandemia (por las cuarentenas del Covid19 xD), entre otras cosas más.
 
-Actualmente estoy actualizando mis conocimientos para convertirme en un **Full Stack Designer** aprendiendo de _UX/UI_ y siguiendo en diferido un bootcamp de _Full Stack Javascript_ dictado por **Guillermo Rodas** en [Undefined Academy](https://undefined.academy/).
+#### ¿Por qué OrcaCL? ####
 
-Más adelante subiré un link a mi CV completo, pero por el momento dejaré este archivo hasta aquí.
+Mis iniciales (O.R.C.A) coinciden con este hermoso animalito 🐋 y por lo mismo son parte de mi nickname.
 
-Mis descubrimientos y avances los moví a mi blog personal. Si le interesa leerlos, me avisa por dm.
+
+#### 🌱 En este momento... ####
+
+Actualmente estoy actualizando mis conocimientos para lograr ser el `"Unicornio Digital"`. O sea, convertirme en un **Full Stack Designer** aprendiendo de `UX/UI` y siguiendo en diferido el bootcamp de **Full Stack Javascript** dictado por **Guillermo Rodas** en [Undefined Academy](https://undefined.academy/)
+
+
+ PD: Esta página de **About** en GitHub es parte de los ejercicios del Bootcamp de Guillermo Rodas, por lo que está armado y ordenado de a poco y sin mucho pensamiento de SEO ni UX/UI. Es una sumatoria de ejercicios hechos con muchas ganas pero poco tiempo. Hay harto que pulir y está en constante desarrollo. (En Rodaje)
+
+⚡ Cada día estoy más feliz de [Pagar el precio del novato](https://www.youtube.com/watch?v=ewfGsPdnm2Q). Les recomiendo este video. Es muy bueno y los ayudará así como lo hace conmigo.
+
 :)
