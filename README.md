@@ -27,10 +27,9 @@ Mis iniciales (O.R.C.A) coinciden con este hermoso animalito 🐋 y por lo mismo
 
 #### 🌱 En este momento... ####
 
-Actualmente estoy actualizando mis conocimientos para lograr ser el `"Unicornio Digital"`. O sea, convertirme en un **Full Stack Designer** aprendiendo de `UX/UI` y siguiendo en diferido el bootcamp de **Full Stack Javascript** dictado por **Guillermo Rodas** en [Undefined Academy](https://undefined.academy/)
+Ya terminé mi curso tipo Bootcamp en Talento Digital para Chile y soy oficialmente un "Diseñador UX/UI Trainee" pero eso me impidió poder terminar el bootcamp de **Guillermo Rodas** en [Undefined Academy](https://undefined.academy) de **Full Stack Javascript**. Estaba muy bueno pero era muy dificil mantener dos trabajos y dos bootcamps al mismo tiempo. Quedé en la mitad pero afortunadamente es un curso que queda grabado y que tiene una comunidad en Discord muy activa, así que apenas tenga tiempo lo retomaré. Mi plan de lograr ser un `"Unicornio Digital"`o **Full Stack Designer** sigue en pié, pero algo diferido.
 
-
- PD: Esta página de **About** en GitHub es parte de los ejercicios del Bootcamp de Guillermo Rodas, por lo que está armado y ordenado de a poco y sin mucho pensamiento de SEO ni UX/UI. Es una sumatoria de ejercicios hechos con muchas ganas pero poco tiempo. Hay harto que pulir y está en constante desarrollo. (En Rodaje)
+La mayoría de los repo que tengo acá son ejercicios del bootcamp de Guillermo y un par de herramientas personales.
 
 ⚡ Cada día estoy más feliz de [Pagar el precio del novato](https://www.youtube.com/watch?v=ewfGsPdnm2Q). Les recomiendo este video. Es muy bueno y los ayudará así como lo hace conmigo.
 
