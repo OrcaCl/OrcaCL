@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 #### Sobre Mi: ####
 
-Hola, mi nombre es Orlando Caffarena, soy un **🎨 Diseñador Gráfico e Ingeniero en Redes**, y vivo en un hermoso, angosto y largo país llamado Chile.
+Hola, mi nombre es Orlando Caffarena, soy un **🎨 Diseñador Gráfico Fullstack**, y vivo en un hermoso, angosto y largo país llamado Chile.
 
-Mi curiosidad me ha motivado a ser un desarrollador autodidacta en el `antiguo` stack LAMP, a ser un DJ, Fotógrafo, panadero de pandemia (por las cuarentenas del Covid19 xD), entre otras cosas más.
+Me puse ese título porque soy un Diseñador Gráfico con un background de desarrollo web usando el antiguo stack LAMP y además tengo estudios de UX/UI via Talento Digital, Chile.
+O sea, un diseñador que programa y que sabe de UX/UI.
 
 #### ¿Por qué OrcaCL? ####
 
@@ -27,7 +28,8 @@ Mis iniciales (O.R.C.A) coinciden con este hermoso animalito 🐋 y por lo mismo
 
 #### 🌱 En este momento... ####
 
-Ya terminé mi curso tipo Bootcamp en Talento Digital para Chile y soy oficialmente un "Diseñador UX/UI Trainee" pero eso me impidió poder terminar el bootcamp de **Guillermo Rodas** en [Undefined Academy](https://undefined.academy) de **Full Stack Javascript**. Estaba muy bueno pero era muy dificil mantener dos trabajos y dos bootcamps al mismo tiempo. Quedé en la mitad pero afortunadamente es un curso que queda grabado y que tiene una comunidad en Discord muy activa, así que apenas tenga tiempo lo retomaré. Mi plan de lograr ser un `"Unicornio Digital"`o **Full Stack Designer** sigue en pié, pero algo diferido.
+Ya terminé mi curso tipo Bootcamp en Talento Digital para Chile y soy oficialmente un "Diseñador UX/UI Trainee".
+Además estoy cursando un bootacamp Fullstack javascript a cargo de ProgramadoresChile.org, y también dió poder terminar el bootcamp de **Guillermo Rodas** en [Undefined Academy](https://undefined.academy) de **Full Stack Javascript**.
 
 La mayoría de los repo que tengo acá son ejercicios del bootcamp de Guillermo y un par de herramientas personales.
 
