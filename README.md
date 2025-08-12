@@ -16,22 +16,22 @@ Here are some ideas to get you started:
 -->
 #### Sobre Mi: ####
 
-Hola, mi nombre es Orlando Caffarena, soy un **🎨 Diseñador Gráfico Fullstack**, y vivo en un hermoso, angosto y largo país llamado Chile.
+Hola, mi nombre es Orlando Caffarena, soy un **🎨 Diseñador Gráfico Multitool**, y vivo en un hermoso, angosto y largo país llamado Chile.
 
-Me puse ese título porque soy un Diseñador Gráfico con un background de desarrollo web usando el antiguo stack LAMP y además tengo estudios de UX/UI via Talento Digital, Chile.
-O sea, un diseñador que programa y que sabe de UX/UI.
++ Le diseño bonito
++ Le programo frontend, algo de backend. Estoy aprendiendo Node.js
++ Le disfruto hacer algunas cosas con Vibe Coding
++ Le puedo ayudar, si pregunta :)
 
 #### ¿Por qué OrcaCL? ####
 
-Mis iniciales (O.R.C.A) coinciden con este hermoso animalito 🐋 y por lo mismo son parte de mi nickname.
-
+Mis iniciales (O.R.C.A) coinciden con este hermoso animalito 🐋 y por lo mismo son parte de mi. 
 
 #### 🌱 En este momento... ####
 
-Ya terminé mi curso tipo Bootcamp en Talento Digital para Chile y soy oficialmente un "Diseñador UX/UI Trainee".
-Además estoy cursando un bootacamp Fullstack javascript a cargo de ProgramadoresChile.org, y también dió poder terminar el bootcamp de **Guillermo Rodas** en [Undefined Academy](https://undefined.academy) de **Full Stack Javascript**.
-
-La mayoría de los repo que tengo acá son ejercicios del bootcamp de Guillermo y un par de herramientas personales.
+Oficialmente un "Diseñador UX/UI Trainee" gracias a Talento Digital.
+Cursando un bootacamp Fullstack javascript a cargo de la comunidad de [Programadores Chile](https://programadoreschile.org). 
+No terminé el bootcamp de **Guillermo Rodas** en [Undefined Academy](https://undefined.academy) de **Full Stack Javascript**. Estaba muy bueno, pero clases todos los días era demasiado. 
 
 ⚡ Cada día estoy más feliz de [Pagar el precio del novato](https://www.youtube.com/watch?v=ewfGsPdnm2Q). Les recomiendo este video. Es muy bueno y los ayudará así como lo hace conmigo.
 
